@@ -1,0 +1,31 @@
+{
+  "name": "lodash-up",
+  "version": "0.1.0",
+  "main": "./src/index.js",
+  "description": "Lodash + some common mixins.",
+  "keywords": [
+    "lodash",
+    "mixins",
+    "front",
+    "back",
+    "js"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Nicolas Tallefourtane",
+    "url": "http://nicolab.net"
+  },
+  "homepage": "https://github.com/Nicolab/lodash-up",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Nicolab/lodash-up.git"
+  },
+  "bugs": "https://github.com/Nicolab/lodash-up/issues",
+  "engines": {
+    "node": ">= 6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./build.sh"
+  }
+}
